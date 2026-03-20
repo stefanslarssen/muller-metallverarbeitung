@@ -1,5 +1,7 @@
 # Müller Metallverarbeitung GmbH - Website Redesign
 
+**[Live Demo](https://stefanslarssen.github.io/muller-metallverarbeitung/)**
+
 A modern, responsive single-page application redesign for Müller Metallverarbeitung GmbH, a German metal manufacturing company with over 50 years of experience.
 
 ## About This Project
