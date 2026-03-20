@@ -214,7 +214,7 @@ export const translations = {
         shareholders: 'Gesellschafter: Dr.-Ing. Daniel Müller, Sina Müller',
         vat: 'Umsatzsteuer-Ident-Nr.: DE 815 153 969',
         register: 'Handelsregister Nr.: HRB 9086',
-        webdesign: 'Webdesign: Klaus Leuschner, Siegen (www.klaus-leuschner.de)',
+        webdesign: 'Web design by Saga (Sagabuild.com)',
         photos: 'Fotos: Martina Müller, Klaus Leuschner',
       },
       partners: {
@@ -452,7 +452,7 @@ export const translations = {
         shareholders: 'Shareholders: Dr.-Ing. Daniel Müller, Sina Müller',
         vat: 'VAT ID: DE 815 153 969',
         register: 'Commercial Register No.: HRB 9086',
-        webdesign: 'Web design: Klaus Leuschner, Siegen (www.klaus-leuschner.de)',
+        webdesign: 'Web design by Saga (Sagabuild.com)',
         photos: 'Photos: Martina Müller, Klaus Leuschner',
       },
       partners: {
