@@ -15,28 +15,28 @@ function About() {
       icon: <Building size={32} />,
       title: t.about.timeline.year1958.title,
       description: t.about.timeline.year1958.description,
-      image: '/images/history-1958.png',
+      image: `${import.meta.env.BASE_URL}images/history-1958.png`,
     },
     {
       year: language === 'de' ? 'Anfang 1960er' : 'Early 1960s',
       icon: <TrendingUp size={32} />,
       title: t.about.timeline.early60s.title,
       description: t.about.timeline.early60s.description,
-      image: '/images/history-construction.png',
+      image: `${import.meta.env.BASE_URL}images/history-construction.png`,
     },
     {
       year: '1964',
       icon: <Wrench size={32} />,
       title: t.about.timeline.year1964.title,
       description: t.about.timeline.year1964.description,
-      image: '/images/history-1964-hall.png',
+      image: `${import.meta.env.BASE_URL}images/history-1964-hall.png`,
     },
     {
       year: '2025',
       icon: <Award size={32} />,
       title: t.about.timeline.today.title,
       description: t.about.timeline.today.description,
-      image: '/images/history-modern-hall.png',
+      image: `${import.meta.env.BASE_URL}images/history-modern-hall.png`,
     },
   ];
 

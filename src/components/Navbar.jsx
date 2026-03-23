@@ -53,7 +53,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo" onClick={() => scrollToSection('top')}>
-          <img src="/images/mrm-logo.png" alt="MRM Logo" className="logo-image" />
+          <img src={`${import.meta.env.BASE_URL}images/mrm-logo.png`} alt="MRM Logo" className="logo-image" />
           <div className="logo-text">
             <span className="company-name">Müller Metallverarbeitung GmbH</span>
             <div className="logo-underline"></div>

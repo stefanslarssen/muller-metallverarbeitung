@@ -43,7 +43,7 @@ function Contact() {
           <div className="persons-grid">
             <div className="person-card">
               <div className="person-photo">
-                <img src="/images/ralf-mueller.png" alt={t.about.team.manager.name} />
+                <img src={`${import.meta.env.BASE_URL}images/ralf-mueller.png`} alt={t.about.team.manager.name} />
               </div>
               <div className="person-info">
                 <h4>{t.about.team.manager.name}</h4>
@@ -52,7 +52,7 @@ function Contact() {
             </div>
             <div className="person-card">
               <div className="person-photo">
-                <img src="/images/ute-weigand.png" alt={t.about.team.admin.name} />
+                <img src={`${import.meta.env.BASE_URL}images/ute-weigand.png`} alt={t.about.team.admin.name} />
               </div>
               <div className="person-info">
                 <h4>{t.about.team.admin.name}</h4>
